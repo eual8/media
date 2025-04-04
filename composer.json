@@ -1,5 +1,5 @@
 {
-    "name": "brackets/media",
+    "name": "develop-algoritma/media",
     "description": "Associate files with Eloquent models",
     "keywords": [
         "media",
@@ -32,12 +32,12 @@
     ],
     "require": {
         "php": "^8.0.2",
-        "illuminate/support": "^9.0|^10.0",
+        "illuminate/support": "^9.0|^10.0|^11.0|^12.0",
         "spatie/laravel-medialibrary": "^10.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.0|^10.0",
-        "orchestra/testbench": "^6.0|^7.0|^8.0"
+        "phpunit/phpunit": "^9.0|^10.0|^11.0",
+        "orchestra/testbench": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0"
     },
     "autoload": {
         "classmap": [],
